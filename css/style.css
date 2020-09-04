@@ -450,7 +450,7 @@ span.shortline5 {
 }
 /*-- /Portfolio --*/
 /*-- Gallery --*/
-.mygallery {
+/* .mygallery {
 	padding:0;
 	margin:0 auto;
 }
@@ -480,7 +480,7 @@ span.shortline5 {
 	-moz-transition:0.5s all;
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
-}
+} */
 /*-- /Gallery --*/
 /*-- Footer --*/
 .contact-me {
