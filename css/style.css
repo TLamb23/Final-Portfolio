@@ -273,7 +273,7 @@ span.line2 {
 	margin:0 auto;
 }
 .about-me h3 {
-	color:#A1B3A4;
+	color:white;
 	font-size:30px;
 	font-family: 'Cinzel', serif;
 	line-height:25px;
@@ -284,7 +284,7 @@ img.img-responsive {
     margin: auto;
 }
 .mydetails , .myskills {
-	background-color: rgba(129, 224, 144, 0.14);
+	background-color: hsl(120, 1%, 34%);
 }
 .mydetails {
 	padding:6.3em 0;
@@ -362,7 +362,7 @@ span.longline1 {
 	width:267px;
 	height:2px;
 	display:inline-block;
-	background-color:#A1B3A4;
+	background-color:#5e9dfa;
 	margin-top: 3%;
 }
 span.shortline1 {
@@ -376,7 +376,7 @@ span.longline2 {
 	width:270px;
 	height:2px;
 	display:inline-block;
-	background-color:#A1B3A4;
+	background-color:#5e9dfa;
 	margin-top: 3%;
 }
 span.shortline2 {
@@ -390,7 +390,7 @@ span.longline3 {
 	width:285px;
 	height:2px;
 	display:inline-block;
-	background-color:#A1B3A4;
+	background-color:#5e9dfa;
 	margin-top: 3%;
 }
 span.shortline3 {
@@ -404,7 +404,7 @@ span.longline4 {
 	width:276px;
 	height:2px;
 	display:inline-block;
-	background-color:#A1B3A4;
+	background-color:#5e9dfa;
 	margin-top: 3%;
 }
 span.shortline4 {
@@ -418,7 +418,7 @@ span.longline5 {
 	width:288px;
 	height:2px;
 	display:inline-block;
-	background-color:#A1B3A4;
+	background-color:#5e9dfa;
 	margin-top: 3%;
 }
 span.shortline5 {
@@ -435,7 +435,7 @@ span.shortline5 {
 	margin:0 auto;
 }
 .myportfolio h3 {
-	color:#A1B3A4;
+	color:white;
 	font-size:30px;
 	font-family: 'Cinzel', serif;
 	line-height:25px;
@@ -455,7 +455,7 @@ span.shortline5 {
 	margin:0 auto;
 }
 .mygallery h3 {
-	color:#A1B3A4;
+	color:#5e9dfa;
 	font-size:30px;
 	font-family: 'Cinzel', serif;
 	line-height:25px;
@@ -489,7 +489,7 @@ span.shortline5 {
 	margin:0 auto;
 }
 .contact-me h3 {
-	color:#A1B3A4;
+	color:white;
 	font-size:30px;
 	font-family: 'Cinzel', serif;
 	line-height:25px;
@@ -539,8 +539,8 @@ textarea.form-control {
     box-shadow:none; 
 }
 .contact-me button.btn.btn-default.btn-lg {
-	background-color:#A1B3A4;
-	border-color:#A1B3A4;
+	background-color:#5e9dfa;
+	border-color:#5e9dfa;
 	color: #fff;
 	outline:none;
 	border-radius:0px;
@@ -570,7 +570,7 @@ textarea.form-control {
 	color:#000;
 }
 .footer-info i{
-	color:#A1B3A4;
+	color:#5e9dfa;
 	font-size: 30px;
     margin: 25px 20px 10px 25px;
     display: inline-block;
@@ -598,14 +598,14 @@ p.p1 a {
 	color:#000;
 }
 p.p1 a:hover {
-	color:#A1B3A4;
+	color:#5e9dfa;
 }
 p.p2 a {
 	text-decoration:none;
 	color:#000;
 }
 p.p2 a:hover {
-	color:#A1B3A4;
+	color:#5e9dfa;
 }
 .contact-info h5 {
     font-family: 'Cinzel', serif;
